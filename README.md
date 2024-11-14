@@ -1,1 +1,4 @@
 # BTC(bitcoin)
+# Bitcoin-Wallet
+# Total Supply: 1962935220000000 $BTC
+# Owner: 0xc72BFfC7387B8D1D428617bC3D0278FE0e08550A
