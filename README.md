@@ -1,5 +1,6 @@
 $ BTC(bitcoin)
-# [BTC](bitcoin)
+$ [BTC](bitcoin)
+# [LICENSE.txt](https://github.com/user-attachments/files/17742862/LICENSE.txt)
 $ Balance: 1890856926000.00 [USD]
 # Bitcoin-Wallet: [BTC](bitcoin)
 # Total-Supply: 21000000 BTC(bitcoin).
